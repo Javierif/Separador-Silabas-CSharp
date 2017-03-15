@@ -1,0 +1,8 @@
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\DivisionSilabicaCSharp.Form1.resources
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\DivisionSilabicaCSharp.Properties.Resources.resources
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\DivisionSilabicaCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\bin\Debug\DivisionSilabicaCSharp.exe
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\bin\Debug\DivisionSilabicaCSharp.pdb
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\DivisionSilabicaCSharp.exe
+C:\Documents and Settings\UEMTJP5\Mis documentos\Visual Studio 2008\Projects\DivisionSilabicaCSharp\DivisionSilabicaCSharp\obj\Debug\DivisionSilabicaCSharp.pdb
